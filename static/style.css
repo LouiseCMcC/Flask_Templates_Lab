@@ -1,0 +1,31 @@
+#main_heading {
+    color: palegreen;
+
+}
+#main_form {
+    color:black;
+    background-color: lavender;
+    height: 200px;
+    padding: 20px;
+}
+
+#main_labels {
+    color: black;
+}
+
+#main_inputs {
+    background-color: pink;
+}
+
+#main_inputs1 {
+    background-color: pink;
+}
+#main_inputs2 {
+    background-color: pink;
+}
+#main_inputs3 {
+    background-color: pink;
+}
+#main_inputs4 {
+    background-color: pink;
+}
